@@ -1,0 +1,14 @@
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\bin\Release\RemoteDestop.exe
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\bin\Release\RemoteDestop.pdb
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\bin\Release\Interop.MSTSCLib.dll
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\bin\Release\AxInterop.MSTSCLib.dll
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\obj\Release\RemoteDestop.csprojResolveAssemblyReference.cache
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\obj\Release\Interop.MSTSCLib.dll
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\obj\Release\AxInterop.MSTSCLib.dll
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\obj\Release\RemoteDestop.csproj.ResolveComReference.cache
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\obj\Release\RemoteDestop.Form1.resources
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\obj\Release\RemoteDestop.Properties.Resources.resources
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\obj\Release\RemoteDestop.csproj.GenerateResource.Cache
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\obj\Release\RemoteDestop.csproj.CoreCompileInputs.cache
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\obj\Release\RemoteDestop.exe
+F:\visual studio2017\1\RemoteDestop\RemoteDestop\obj\Release\RemoteDestop.pdb

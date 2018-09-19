@@ -1,0 +1,14 @@
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\obj\Debug\Interop.MSTSCLib.dll
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\obj\Debug\AxInterop.MSTSCLib.dll
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\obj\Debug\RemoteDestop.csproj.ResolveComReference.cache
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\bin\Debug\RemoteDestop.exe
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\bin\Debug\RemoteDestop.pdb
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\bin\Debug\Interop.MSTSCLib.dll
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\bin\Debug\AxInterop.MSTSCLib.dll
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\obj\Debug\ResolveAssemblyReference.cache
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\obj\Debug\RemoteDestop.Form1.resources
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\obj\Debug\RemoteDestop.Properties.Resources.resources
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\obj\Debug\GenerateResource.read.1.tlog
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\obj\Debug\GenerateResource.write.1.tlog
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\obj\Debug\RemoteDestop.exe
+D:\tdk\qq\2677373108\FileRecv\RemoteDestop\RemoteDestop\RemoteDestop\obj\Debug\RemoteDestop.pdb
